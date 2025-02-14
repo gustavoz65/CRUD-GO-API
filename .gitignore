@@ -1,0 +1,20 @@
+.exe
+.exe~
+.env
+.so
+.dylib
+.dll
+.test
+.out
+# Diretório de dependências do Go
+/vendor/
+
+# Binários gerados
+*.bin
+
+# Cache do Go
+/go/pkg/
+/go/bin/
+
+# Arquivos do VS Code (se usar)
+.vscode/
